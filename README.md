@@ -32,9 +32,11 @@ Allows token holders to transfer tokens to another address.
 - `recipient`: The address to transfer tokens to.
 - `amount`: The number of tokens to transfer.
 
-## Testing
+## Authors
 
-To run tests, use HardHat's testing framework.
+- **Digant Raj**  
+  GitHub: [@Digant](https://github.com/Digantraj)
 
-```bash
-npx hardhat test
+## License
+
+This project is licensed under the MIT License.
